@@ -18,7 +18,7 @@ import HTMLVfcTile from '../components/tile/vfc-tile.html';
 
 let examples = {
 	'Without footer': {
-		jsx: <Tile headerText='header' headerColor='blue' iconName='vsp' iconColor='blue'>
+		jsx: <Tile headerText='header' miniHeader='2nd Header' headerColor='blue' iconName='vsp' iconColor='blue'>
 					<TileInfo>
 						<TileInfoLine type='supertitle'>Supertitle</TileInfoLine>
 						<TileInfoLine type='title'>Title</TileInfoLine>
