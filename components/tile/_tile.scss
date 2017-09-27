@@ -65,6 +65,10 @@
 		@extend .text-uppercase;
 	}
 
+	.sdc-tile-2nd-header {
+	  font-size: $body-font-2;
+	}
+
 	.sdc-tile-content {
 		display: flex;
 		flex-direction: column;

@@ -10,6 +10,9 @@ exports[`Tile Empty tile 1`] = `
     className="sdc-tile-header "
   />
   <div
+    className="sdc-tile-2nd-header "
+  />
+  <div
     className="sdc-tile-content"
   >
     <div
@@ -27,6 +30,9 @@ exports[`Tile Tile with content info 1`] = `
 >
   <div
     className="sdc-tile-header "
+  />
+  <div
+    className="sdc-tile-2nd-header "
   />
   <div
     className="sdc-tile-content"
@@ -56,6 +62,9 @@ exports[`Tile Tile with footer 1`] = `
 >
   <div
     className="sdc-tile-header "
+  />
+  <div
+    className="sdc-tile-2nd-header "
   />
   <div
     className="sdc-tile-content"
@@ -88,6 +97,9 @@ exports[`Tile Tile with props 1`] = `
   >
     header
   </div>
+  <div
+    className="sdc-tile-2nd-header blue"
+  />
   <div
     className="sdc-tile-content"
   >
